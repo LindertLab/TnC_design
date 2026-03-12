@@ -1,9 +1,30 @@
-This repository contains the code for the paper "Deep Learning Design-based Metrics Can Elucidate Differences in Troponin C Isoform and Mutant Hydrophobic Patch Exposure".
+This repository contains the code and data for the paper:
 
-Homology modeling: The detailed workflow is provided in the method section of the paper. The final homology models of open and closed sTnC could be found in the folder "homology_models"
+**"Deep Learning Design-based Metrics Can Elucidate Differences in Troponin C Isoform and Mutant Hydrophobic Patch Exposure."**
 
-Protein MPNN results: The detailed workflow is provided in the ProteinMPNN in Rosetta Method section in the Supplementary Information. The final Protein MPNN results of open and closed cTnC and sTnC for 200 runs could be found in the folder "protein_mpnn_results"
+---
 
-ThermoMPNN results: The detailed workflow is provided in the ThermoMPNN ΔΔG predictions Method section in the Supplementary Information. The final ThermoMPNN results of open and closed cTnC and sTnC could be found in the folder "thermo_mpnn_results"
+### Homology modeling
 
-Scripts: Psuedo scripts for data analysis is given here
+The detailed homology modeling workflow is described in the Methods section of the paper.  
+The final homology models of open and closed sTnC are provided in the `homology_models` folder.
+
+---
+
+### ProteinMPNN results
+
+The ProteinMPNN workflow is described in the **ProteinMPNN in Rosetta** Methods section in the Supplementary Information.  
+Final ProteinMPNN results for 200 runs on open and closed cTnC and sTnC are provided in the `protein_mpnn_results` folder.
+
+---
+
+### ThermoMPNN results
+
+The ThermoMPNN ΔΔG prediction workflow is described in the **ThermoMPNN ΔΔG predictions** Methods section in the Supplementary Information.  
+Final ThermoMPNN results for open and closed cTnC and sTnC are provided in the `thermo_mpnn_results` folder.
+
+---
+
+### Scripts
+
+Pseudo-code scripts for data analysis are provided in the `scripts` folder.
