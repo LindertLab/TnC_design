@@ -1,6 +1,6 @@
 This repository contains the code and data for the paper:
 
-###"Deep Learning Design-based Metrics Can Elucidate Differences in Troponin C Isoform and Mutant Hydrophobic Patch Exposure."
+### Deep Learning Design-based Metrics Can Elucidate Differences in Troponin C Isoform and Mutant Hydrophobic Patch Exposure.
 
 ---
 
